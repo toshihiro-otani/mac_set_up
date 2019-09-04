@@ -9,7 +9,7 @@ brew cask install \
   alfred \
   google-japanese-ime \
   google-chrome \
-  google-cloud-sdk
+  google-cloud-sdk \
   google-backup-and-sync \
   iterm2 \
   1password \
