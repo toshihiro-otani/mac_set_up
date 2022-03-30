@@ -10,8 +10,6 @@ brew cask install \
   google-japanese-ime \
   google-chrome \
   google-cloud-sdk \
-  google-backup-and-sync \
-  iterm2 \
   1password \
   appcleaner \
   cheatsheet \
@@ -24,10 +22,16 @@ brew cask install \
   r \
   contexts \
   font-source-han-code-jp \
-  insomniax \
   kindle \
   macvim \
   visual-studio-code \
   bettertouchtool \
   dash \
   kitematic
+
+brew install \
+  pyenv
+  pipenv\
+  peco\
+  nkf\
+  rmtrash
