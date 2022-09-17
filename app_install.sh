@@ -27,7 +27,8 @@ brew cask install \
   visual-studio-code \
   bettertouchtool \
   dash \
-  kitematic
+  kitematic \
+  direnv
 
 brew install \
   pyenv
